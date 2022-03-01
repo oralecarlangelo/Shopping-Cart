@@ -1,0 +1,68 @@
+const shoes = [
+  {
+    img: "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/92947e6d-a7d9-4b6a-8020-040f0cc61879/air-max-2021-shoes-MljWq1.png",
+    itemName: "Nike Air Max 2021",
+    id: 1,
+    category: "Men's Shoes",
+    color: "black-blue",
+    price: 8595,
+  },
+  {
+    img: "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/d8a4fead-8f49-44a6-ae63-1ffeb86ac68b/air-max-pre-day-shoes-jMh2rB.png",
+    itemName: "Nike Air Max Pre-Day",
+    id: 2,
+    category: "Men's Shoes",
+    color: "orange-red-white",
+    price: 7095,
+  },
+  {
+    img: "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/77f0bca0-41df-4476-8db5-b49cf174ece6/air-max-sc-shoes-2fm8C6.png",
+    itemName: "Nike Air Max 90 SE",
+    id: 3,
+    category: "Men's Shoes",
+    color: "white-mintGreen",
+    price: 8595,
+  },
+  {
+    img: "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/92c78a3e-2082-4ee3-96f5-0c9b9c5b0195/air-force-1-pixel-se-shoes-80KKxv.png",
+    itemName: "Nike Air Force 1 Pixel SE",
+    id: 4,
+    category: "Women's Shoes",
+    color: "white-zebraGray",
+    price: 4719,
+  },
+  {
+    img: "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/f3a020e3-1ee5-4237-a13b-886b47f7c131/air-force-1-fontanka-shoes-LtBCnn.png",
+    itemName: "Nike Air Force 1 Fotanka",
+    id: 5,
+    category: "Women's Shoes",
+    color: "white",
+    price: 4719,
+  },
+  {
+    img: "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/a7329ca5-7415-4180-b7b5-1b951060903a/air-force-1-shadow-shoes-mN8Glx.png",
+    itemName: "Nike Air Force 1 Shadow",
+    id: 6,
+    category: "Men's Shoes",
+    color: "white-pink",
+    price: 4639,
+  },
+  {
+    img: "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/d6b21f68-1ebb-418b-9903-9c6b44d0bbf1/air-presto-shoes-QdhgZW.png",
+    itemName: "Nike Air Presto",
+    id: 7,
+    category: "Men's Shoes",
+    color: "Black",
+    price: 5519,
+  },
+  {
+    img: "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/2c26592a-7f27-483e-952d-d2c2841de4a2/waffle-one-shoes-1SFQwJ.png",
+    itemName: "Nike Waffle One",
+    id: 8,
+    category: "Men's Shoes",
+    color: "navyBlue",
+    price: 4079,
+  },
+];
+
+export default shoes;
