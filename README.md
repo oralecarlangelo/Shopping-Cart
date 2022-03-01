@@ -4,6 +4,7 @@ This Project is bootstrapped with [Create React App](https://github.com/facebook
 ## Packages used:
 
 - [ReactJs](https://reactjs.org/)
+- [Redux](https://redux.js.org/)
 - [Redux Toolkit](https://redux-toolkit.js.org/)
 - [React Date Picker](https://reactdatepicker.com/)
 - [Tailwind Css](https://tailwindcss.com/)
